@@ -1,0 +1,1 @@
+console.log('estoy aquí, si existo soy el frontend');
